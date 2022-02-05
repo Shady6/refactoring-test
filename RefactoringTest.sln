@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyApp.Consumer", "Legac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyApp", "LegacyApp\LegacyApp.csproj", "{C0E35137-EE80-4AC9-96E3-E927718A6FAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyApp.Tests", "LegacyApp.Tests\LegacyApp.Tests.csproj", "{9A17B69D-7B29-4014-8F88-D6D8B0AB74CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{C0E35137-EE80-4AC9-96E3-E927718A6FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0E35137-EE80-4AC9-96E3-E927718A6FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0E35137-EE80-4AC9-96E3-E927718A6FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A17B69D-7B29-4014-8F88-D6D8B0AB74CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A17B69D-7B29-4014-8F88-D6D8B0AB74CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A17B69D-7B29-4014-8F88-D6D8B0AB74CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A17B69D-7B29-4014-8F88-D6D8B0AB74CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

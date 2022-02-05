@@ -6,7 +6,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\LegacyApp\LegacyApp.csproj" />
+        <ProjectReference Include="..\LegacyApp\LegacyApp.csproj"/>
     </ItemGroup>
 
 </Project>
